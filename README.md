@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on RoboticsProjects
-- 📫 How to reach me ...
+- 📫 Reach out to me ...
 
 <!---
 MNikoliCC/MNikoliCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
