@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNikoliCC
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning ROS
+- 🌱 I’m working with ROS and ROS2
 - 💞️ I’m looking to collaborate on RoboticsProjects
 - 📫 Reach out to me ...
 
